@@ -1,0 +1,19 @@
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\obj\Debug\library.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\obj\Debug\Filmoteka.Properties.Resources.resources
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\bin\Debug\Filmoteka.exe.config
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\bin\Debug\Filmoteka.exe
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\bin\Debug\Filmoteka.pdb
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\obj\Debug\Filmoteka.exe
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\obj\Debug\Filmoteka.pdb
+C:\Users\yasha\OneDrive\Робочий стіл\library\library\obj\Debug\Filmoteka.exe.config
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\bin\Debug\SportsRental.exe.config
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\bin\Debug\SportsRental.exe
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\bin\Debug\SportsRental.pdb
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\obj\Debug\library.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\obj\Debug\SportsRental.Properties.Resources.resources
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\obj\Debug\SportsRental.exe
+C:\Users\yasha\OneDrive\Робочий стіл\library - Copy\library\obj\Debug\SportsRental.pdb
